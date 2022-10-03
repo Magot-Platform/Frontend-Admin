@@ -1,0 +1,10 @@
+{
+    "login_success": {
+        "type": "success",
+        "msg": "Login Success"
+    },
+    "register_success": {
+        "type": "success",
+        "msg": "Register Success"
+    }
+}

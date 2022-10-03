@@ -1,0 +1,72 @@
+.n-container {
+  max-width: 1200px;
+  margin: auto;
+  width: 90%;
+}
+
+.list-token {
+  position: absolute;
+  width: 694px;
+  height: 957px;
+  left: 613px;
+  top: 61px;
+}
+.cient_bg {
+  background-image: url('./images/Decor-1-11.png');
+  background-size: 100% 100%;
+}
+
+.pricing thead tr th {
+  @apply py-4 px-1;
+}
+
+.pricing tbody tr td {
+  @apply py-2 px-1;
+}
+
+.qutbg {
+  background-image: url('./images/Rectangle_194.png');
+  background-size: 100% 100%;
+  background-color: (0, 0, 0);
+}
+
+.search_bg {
+  background-image: url('./images/Rectangle_183.png');
+  background-size: 100% 100%;
+}
+
+.gradient_bg {
+  background: linear-gradient(90deg, #D47A09 0%, #EBBF33 100%);
+}
+
+.login_bg {
+  background-image: url('./images/Register_Page_1.png');
+  background-size: 100% 100%;
+  height: 100vh;
+  width: 100%;
+}
+
+.signup-bg {
+  background-image: url('./images/Register_Page_1.png');
+  background-size: 100% 100%;
+  height: 100vh;
+  width: 100%;
+}
+
+.scrollbox {
+  scrollbar-gutter: stable;
+}
+
+.scroller::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scroller::-webkit-scrollbar-track {
+  background-color: #e4e4e4;
+  border-radius: 100px;
+}
+
+.scroller::-webkit-scrollbar-thumb {
+  background-color: #9d9d9d;
+  border-radius: 100px;
+}
